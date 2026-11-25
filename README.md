@@ -10,9 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Windows-10%20x64-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 10">
-  <img src="https://img.shields.io/badge/Windows-11%20x64-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 11">
-  <img src="https://img.shields.io/badge/C%23-WinUI%203-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C# and WinUI 3">
+  <img src="https://img.shields.io/badge/Linux%20x64-0078D4?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
 </p>
 
 Официальный Windows-клиент **Paradise VPN** с нативным VPN-подключением, современным интерфейсом Windows 11 и управлением аккаунтом прямо из приложения.
